@@ -1,0 +1,116 @@
+Project Title: Poetic Soul – The Art of Feelings
+
+Build a world-class, emotionally immersive, modern portfolio website for a Nigerian poet named Julius Samuel Ikechukwu, who writes under the pen name “Poetic Soul 🖤.”
+
+The site should feature a clean yet powerful poetic design, exceptional typography, minimalistic layout, and top-tier UI/UX visuals that immerse the visitor in emotion and simplicity.
+
+⸻
+
+🏗️ Pages to Include
+	•	Home Page:
+	•	Hero section with the name Poetic Soul 🖤 in elegant typography.
+	•	Tagline below: “Where feelings find their rhythm.”
+	•	Background: subtle animated smoke or ink effect (soft, poetic aesthetic).
+	•	A “Read Poems” call-to-action button leading to the Poems page.
+	•	Footer: “© 2025 Poetic Soul. All rights reserved.” + WhatsApp icon linked to https://wa.me/2349063887291
+	•	About Page:
+	•	Large centered portrait of the poet (placeholder image poet.jpg, which will be uploaded later).
+	•	Short bio text:
+Poetic Soul (Julius Samuel Ikechukwu) is a Nigerian poet whose words breathe love, heartbreak, reflection, and rebirth. His art translates silence into rhythm, and emotions into timeless verses.
+	•	WhatsApp button (“Chat with the Poet”) linking to https://wa.me/2349063887291
+	•	Poems Page:
+	•	Grid/list layout showing all poems (title + excerpt).
+	•	Each poem opens in a beautiful modal or separate poem page with full text, title, and subtle animation.
+	•	Add “Share via WhatsApp” button below each poem.
+	•	Poem Pages (Integrate these poems exactly as written):
+
+🥺 Whispers of What Could’ve Been
+
+What differentiates us is my big heart to choose your happiness first and his big heart to boast of his chances of having you,
+
+You chose him over and over again wiping your harsh words at my heart glued with the echoes of I was not a better man to walk down with at the Freetown
+
+Yet I had no choice but to clap with my tears, heart, and feet leaving with many buried words aside from my hot breath burning my lungs I once exhaled with you beneath the seawater,
+
+Distant memories I could think of you while I searched and learned to stop loving you seeking myself right in the setting of the sunrise we once looked together Dreaming!!
+
+
+
+**POETRY @IK**
+
+🖤 Losing My Way
+
+I've covered many miles just to build a reality in my dream with high hopes of getting there,
+
+Being beaten by the harsh weather of rainfall,  
+Sunlight,  
+Thirsty lungs breathing high to hold my heart,
+
+The journey never seems to come to an end while my feet hurt looking lost in the middle of the miles I've covered!!
+
+**POETIC SOUL @IK**
+
+
+🖤 A Gentle Man
+
+A gentleman standing in the mirror with his flaws trying to make a difference,
+
+Bold gesture amidst the chaos right fitted together with the suit and tie,
+ 
+A place of better steps to move on with the linings of the Dreams!!
+
+**POETIC SOUL @IK**
+
+🥺 Him Over Me
+
+What differentiates us is my big heart to choose your happiness first and his big heart to boast of his chances of having you,
+
+You chose him over and over again wiping your harsh words at my heart glued with the echoes of I was not a better man to walk down with at the Freetown
+
+Yet I had no choice but to clap with my tears, heart, and feet leaving with many buried words aside from my hot breath burning my lungs I once exhaled with you beneath the seawater,
+
+Distant memories I could think of you while I searched and learned to stop loving you seeking myself right in the setting of the sunrise we once looked together Dreaming!!
+
+**POETIC SOUL @IK**
+
+❤️‍🩹 New Dawn
+
+I'm a burning Ashe trying to follow the space of the new being I'm becoming despite not being okay,
+
+I stand in the mirror reflecting no one but myself precisely seeking a new dawn to lose my past together with the tears,
+
+Nothing is better than the best I could see myself and learn to live with the distant memories while flipping the pages at my Heart!!
+
+**POETIC SOUL @IK**
+
+🥺 Burning Flame
+
+Loving you was never enough to remember to stay despite the two-sided reason to love you righteously without being bothered as I continuously keep seeing the burning flame consuming the man I have to be and Loving you enough to not be with you,
+
+But my difference put behind my past to love wholeheartedly like a soul whose heart has never been broken before giving a glimmering light in my heart to not look for myself in you,
+
+Yet I hold onto my feelings despite it too hard for me to accept we can't be together while I can't help but to wonder if it's could just be a nightmare but is my reality standing in between my Heart!!
+
+**POETIC SOUL @IK**
+
+💎 UI/UX Requirements
+	•	Premium-quality UI/UX similar to Behance poetry portfolios or Medium-style reading layout.
+	•	Use Tailwind CSS for modern responsive design.
+	•	Use soft transitions, parallax backgrounds, and a dark/light mode toggle.
+	•	Include text-to-speech “🎧 Listen to Poem” option using browser SpeechSynthesis API.
+	•	Include floating WhatsApp button (bottom-right corner).
+	•	Add lazy image loading, SEO titles, and OpenGraph tags.
+	•	Mobile optimized — must look perfect on phones.
+
+
+Responsive tablet desktop phones
+
+🧾 Footer
+	•	“Made with ❤️ by Poetic Soul”
+	•	WhatsApp icon link: https://wa.me/2349063887291
+	•	Year auto-updates dynamically (© <currentYear> Poetic Soul)
+
+⸻
+
+Final Output:
+A stunning, mobile-responsive, emotional poetry website for Poetic Soul with his poems displayed beautifully, WhatsApp contact integrated, and ready to deploy live.
